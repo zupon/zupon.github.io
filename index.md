@@ -1,4 +1,4 @@
-[Home](alzupon.github.io) | [Education](alzupon.github.io/education) | [Employment](alzupon.github.io/employment)
+[Home](index.md) | [Education](education.md) | [Employment](employment.md)
 
 I am a linguist. I am currently a PhD student in the [Department of Linguistics](https://www.linguistics.arizona.edu) at the [University of Arizona](https://www.arizona.edu). Before starting the PhD program I worked as a Junior Linguist at [Google](https://www.google.com), and before that I completed an MA degree in Linguistics at the [University of Utah](https://www.utah.edu).
 
