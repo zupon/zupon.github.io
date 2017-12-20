@@ -2,7 +2,7 @@
 
 # Employment
 
-### Adecco at Google
+## Adecco at Google
 
 02015-02016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Linguist
 
