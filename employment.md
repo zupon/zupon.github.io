@@ -1,4 +1,4 @@
-[Home](alzupon.github.io) | [Education](alzupon.github.io/education) | [Employment](alzupon.github.io/employment)
+[Home](index.md) | [Education](education.md) | [Employment](employment.md)
 
 # Employment
 
