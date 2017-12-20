@@ -1,4 +1,4 @@
-[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Contact](contact.md)
+[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # Contact
 
