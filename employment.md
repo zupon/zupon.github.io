@@ -1,6 +1,4 @@
-[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Contact](contact.md)
-
-![papyrus](https://alzupon.github.io/images/papyrus.jpg)
+[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # Employment
 
