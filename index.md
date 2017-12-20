@@ -1,4 +1,4 @@
-# Andrew Zupon's Personal Page
+[Home](alzupon.github.io) | [Education](alzupon.github.io/education)
 
 I am a linguist. I am currently a PhD student in the [Department of Linguistics](linguistics.arizona.edu) at the [University of Arizona](arizona.edu). Before starting the PhD program I worked as a Junior Linguist at [Google](google.com), and before that I completed an MA degree in Linguistics at the [University of Utah](utah.edu).
 
