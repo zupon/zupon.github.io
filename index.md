@@ -1,6 +1,6 @@
-[Home](alzupon.github.io) | [Education](alzupon.github.io/education)
+[Home](alzupon.github.io) | [Education](alzupon.github.io/education) | [Employment](alzupon.github.io/employment)
 
-I am a linguist. I am currently a PhD student in the [Department of Linguistics](linguistics.arizona.edu) at the [University of Arizona](arizona.edu). Before starting the PhD program I worked as a Junior Linguist at [Google](google.com), and before that I completed an MA degree in Linguistics at the [University of Utah](utah.edu).
+I am a linguist. I am currently a PhD student in the [Department of Linguistics](https://www.linguistics.arizona.edu) at the [University of Arizona](https://www.arizona.edu). Before starting the PhD program I worked as a Junior Linguist at [Google](https://www.google.com), and before that I completed an MA degree in Linguistics at the [University of Utah](https://www.utah.edu).
 
 One of my primary research areas is theoretial syntax. In the theoretical domain, my interests include:
 1. Case (especially Quirky case)
