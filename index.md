@@ -1,8 +1,10 @@
-[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Contact](contact.md)
+[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-![it's me!](https://alzupon.github.io/images/redhat.jpg)
+![me](https://alzupon.github.io/images/redhat.jpg)
 
-I am a linguist. I am currently a PhD student in the [Department of Linguistics](https://www.linguistics.arizona.edu) at the [University of Arizona](https://www.arizona.edu). Before starting the PhD program I worked as a Junior Linguist at [Google](https://www.google.com), and before that I completed an MA degree in Linguistics at the [University of Utah](https://www.utah.edu).
+I am a linguist.
+
+I am currently a PhD student in the [Department of Linguistics](https://www.linguistics.arizona.edu) at the [University of Arizona](https://www.arizona.edu). Before starting the PhD program, I worked as a Junior Linguist at [Google](https://www.google.com). Before that, I completed an MA degree in Linguistics at the [University of Utah](https://www.utah.edu).
 
 One of my primary research areas is theoretial syntax. In the theoretical domain, my interests include:
 1. Case (especially Quirky case)
@@ -19,6 +21,7 @@ Some languages I am interested in:
 - Breton
 - Scottish Gaelic
 - Icelandic
+- Faroese
 - Kashmiri
 - Ingush
 - Tohono O'odham
