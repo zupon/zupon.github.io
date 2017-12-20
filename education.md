@@ -1,3 +1,5 @@
+[Home](alzupon.github.io) | [Education](alzupon.github.io/education) | [Employment](alzupon.github.io/employment)
+
 # Education
 
 ### The University of Arizona
@@ -18,7 +20,7 @@ Advisor:&nbsp;&nbsp;Edward J. Rubin
 
 ### Красноярский государственный педагогический университет, им. В.П. Астафьева (Krasnoyarsk State Pedagogical University)
 
-02012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russian Language and Culture Intensive Summer Program (through University of Utah)
+02012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russian Language and Culture Intensive Summer Program
 
 ### Universidá d’Uviéu (University of Oviedo)
 
