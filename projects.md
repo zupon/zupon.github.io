@@ -4,9 +4,11 @@
 
 ## Scottish Gaelic Part-of-Speech tagger
 
-As a final project for Mihai Surdeanu's Statistical NLP course I developed a part-of-speech tagger for Scottish Gaelic, a low-resource language. My (still rough) implementation achieves over 80% accuracy on overall tags and over 22% accuracy on unknown words using an LSTM neural network. Prior work by Lamb and Danso (2014) only achieves 76.6% accuracy on the same dataset, using a Brill bigram tagger.
+Read it [here](https://alzupon.github.io/files/zupon_taggingSG.pdf)!
 
-A link to the project is forthcoming.
+As a final project for Mihai Surdeanu's Statistical NLP course I developed a part-of-speech tagger for Scottish Gaelic, a low-resource language. My implementation achieves over 80% accuracy on overall tags and over 22% accuracy on unknown words using an LSTM neural network. Prior work by Lamb and Danso (2014) only achieves 76.6% accuracy on the same dataset, using a Brill bigram tagger.
+
+A link to the full project is forthcoming.
 
 
 ## Icelandic Quirky Agreement Restrictions (MA Thesis)
