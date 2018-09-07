@@ -2,6 +2,10 @@
 
 # Employment
 
+## Nextiva
+
+Summer 02018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chatbot Intern
+
 ## Adecco at Google
 
 02015-02016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Linguist
