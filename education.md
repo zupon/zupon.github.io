@@ -4,9 +4,11 @@
 
 ## The University of Arizona
 
-02020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)  
-Major:&nbsp;&nbsp;Syntax  
-Minor:&nbsp;&nbsp;Computational Linguistics
+02021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)  
+Committee:&nbsp;&nbsp;Andrew Carnie (chair), Michael Hammond, Mihai Surdeanu
+
+02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Human Language Technology  
+Committee:&nbsp;&nbsp;Michael Hammond (chair), Sandiway Fong, Andrew Carnie
 
 ## The University of Utah
 
