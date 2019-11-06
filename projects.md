@@ -5,7 +5,7 @@
 ## A Corpus Analysis of Breton Soft-Mutation Irregularities
 
 #### Collaborative work with Adam King, Colleen Patton, Michael Hammond, and Andrew Carnie
-##### Accepted to present at Typologi ar Brezhoneg (Typology of Breton) conference in June 02018.
+##### Presented at Typologi ar Brezhoneg (Typology of Breton) conference in June 02018.
 
 Traditional Breton grammars state where the soft mutation should and should not occur (Hemon 1995). Using an online Breton corpus (Eckart and Quasthoff 2013), we investigate how often the soft mutation actually surfaces. We focus on the mutation triggers ‘da’, ‘daou’, ‘div’, ‘holl’, ‘pa’, ‘pe’, and ‘re’, which should always trigger the soft mutation, and on mutation targets beginning with \<m>, \<p>, \<t>, \<k>, and \<gw>, which should all undergo the soft mutation. We also look at \<d>-initial targets after definite and indefinite articles. We find variation across the board, with \<p> in particular standing out.
 
