@@ -6,6 +6,8 @@
 
 Summer 02018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chatbot Intern
 
+I used the Rasa toolkit to help develop a company-internal chatbot. Tasks included creating training data for the chatbot's language model and dialog model, running and comparing different models, and experimenting with new components for the chatbot.
+
 ## Adecco at Google
 
 02015-02016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Linguist
