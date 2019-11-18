@@ -1,6 +1,6 @@
 [Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-![me](https://alzupon.github.io/images/redhat.jpg)
+![me](https://zupon.github.io/images/redhat.jpg)
 
 I am a linguist.
 
