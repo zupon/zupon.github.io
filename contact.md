@@ -1,4 +1,4 @@
-[Home](index.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](index.md) | [About Me](aboutme.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # Contact
 
@@ -8,4 +8,7 @@ zupon at arizona dot edu
 
 ### post
 
-For postal address please contact me via e-mail.
+Department of Linguistics
+University of Arizona
+Communication Bldg. Room 109
+Tucson, AZ 85721 
