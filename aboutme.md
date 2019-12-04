@@ -1,4 +1,4 @@
-->[Home](index.md) | [About Me](aboutme.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)<-
+[Home](index.md) | [About Me](aboutme.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # About Me
 
@@ -26,9 +26,9 @@ Some of the languages I am interested in:
 - Kashmiri
 - Ingush
 - Tohono O'odham
-- Romansh
+- Romansh  
 
----
+======
 
 ## Non-Academic
 
