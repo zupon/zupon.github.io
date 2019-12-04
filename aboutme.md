@@ -34,7 +34,48 @@ Some of the languages I am interested in:
 
 I actually have interests outside of linguistics.  
 
-I am especially interested in music. Hearing Bohemian Rhapsody when my friend showed me Wayne's World when I was young opened me up to a whole new world of music. That led me to David Bowie (via Under Pressure), which led to new genres like Krautrock (e.g. CAN, Kraftwerk, Neu!) and ambient (e.g. Brian Eno). Lately I have been listening to a lot of pop and folk music from the Caucasus, particularly in Circassian languages, Chechen, and Ossetian. I listen to so much different music that people are still surprised to see that I carry an iPod Classic. How else am I going to store so much stuff? The cloud?   
+I am especially interested in music. Hearing Bohemian Rhapsody when my friend showed me Wayne's World when I was young opened me up to a whole new world of music. That led me to David Bowie (via Under Pressure), which led to new genres like Krautrock (e.g. CAN, Kraftwerk, Neu!) and ambient (e.g. Brian Eno). Lately I have been listening to a lot of pop and folk music from the Caucasus, particularly in Circassian languages, Chechen, and Ossetian. I listen to so much different music that people are still surprised to see that I carry an iPod Classic. How else am I going to store so much stuff? The cloud?
+
+<details>
+<summary>Click to see a non-exhaustive selection of music I listen to in no particular order:</summary>
+ 
+- David Bowie
+- Bob Dylan
+- The Beach Boys
+- Nick Lowe
+- Kate Bush
+- The Lemon Twigs
+- Кино
+- Richard and Linda Thompson
+- Brian Eno
+- LCD Soundsystem
+- Genesis
+- The Beatles
+- Japan (& David Sylvian)
+- M.O.T.O.
+- Virginia Astley
+- Vashti Bunyan
+- CAN
+- Kraftwerk
+- Neu!
+- Scott Walker
+- Pixies
+- Swans
+- The Smiths (& Morrissey)
+- Phil Ochs
+- MGMT
+- Mount Eerie
+- Adam Ant
+- XTC
+- Dar Williams
+- Leonard Cohen
+- Warren Zevon
+- Frank Zappa
+- Гражданская Оборона (и Егор Летов)
+- John Cale
+- Big Audio Dynamite
+</details>
+
 
 I also have an amateur interest in city planning. I took a couple of urban planning courses as an undergrad at Utah, and while it wasn't the career path for me, I maintained the interest. Since I am not, in fact, a city planner, this interest typically manifests in city sim games such as Cities: Skylines and Sim City 4.  
 
