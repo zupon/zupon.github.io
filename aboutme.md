@@ -28,9 +28,9 @@ Some of the languages I am interested in:
 - Tohono O'odham
 - Romansh  
 
-======
-
+------
 ## Non-Academic
+
 
 I actually have interests outside of linguistics.  
 
