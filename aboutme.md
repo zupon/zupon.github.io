@@ -37,7 +37,7 @@ I actually have interests outside of linguistics.
 I am especially interested in music. Hearing Bohemian Rhapsody when my friend showed me Wayne's World when I was young opened me up to a whole new world of music. That led me to David Bowie (via Under Pressure), which led to new genres like Krautrock (e.g. CAN, Kraftwerk, Neu!) and ambient (e.g. Brian Eno). Lately I have been listening to a lot of pop and folk music from the Caucasus, particularly in Circassian languages, Chechen, and Ossetian. I listen to so much different music that people are still surprised to see that I carry an iPod Classic. How else am I going to store so much stuff? The cloud?
 
 <details>
-<summary>Click to see a non-exhaustive selection of music I listen to in no particular order:</summary>
+<summary>CLICK HERE to see a non-exhaustive selection of music I listen to in no particular order:</summary>
  
 - David Bowie
 - Bob Dylan
