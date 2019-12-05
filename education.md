@@ -7,14 +7,19 @@
 <details>
 <summary>02012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
 
-Committee:&nbsp;&nbsp;Andrew Carnie (chair), Michael Hammond, Mihai Surdeanu
+Committee:  
+- Andrew Carnie (chair)  
+- Michael Hammond  
+- Mihai Surdeanu  
 </details>
 
 <details>
 <summary>02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Human Language Technology</summary>
 
-Committee:&nbsp;&nbsp;Michael Hammond (chair), Sandiway Fong, Andrew Carnie  
-
+Committee:  
+-Michael Hammond (chair)  
+-Sandiway Fong  
+-Andrew Carnie  
 Internship Report:&nbsp;&nbsp;Bootstrapping Enterprise Chatbots with Rasa
 </details>
 
