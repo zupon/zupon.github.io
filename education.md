@@ -17,9 +17,9 @@ Dissertation Committee:
 <summary>02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Human Language Technology</summary>
 
 Internship Committee:  
--Michael Hammond (chair)  
--Sandiway Fong  
--Andrew Carnie 
+- Michael Hammond (chair)  
+- Sandiway Fong  
+- Andrew Carnie 
  
 Internship Report:&nbsp;&nbsp;Bootstrapping Enterprise Chatbots with Rasa
 </details>
