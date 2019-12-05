@@ -1,14 +1,3 @@
 [Home](index.md) | [About Me](aboutme.md) | [CV](cv.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-# Contact
-
-### e-mail
-
-zupon at arizona dot edu
-
-### post
-
-Department of Linguistics  
-University of Arizona  
-Communication Bldg. Room 109  
-Tucson, AZ 85721
+<iframe src="https://zupon.github.io/files/zupon_cv.pdf" style="width:100%"; height:100%;" frameborder="0"></iframe>
