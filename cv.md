@@ -1,3 +1,3 @@
 [Home](index.md) | [About Me](aboutme.md) | [CV](cv.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-<iframe src="https://zupon.github.io/files/zupon_cv.pdf" height="600" width="100%"></iframe>
+<iframe src="https://zupon.github.io/files/zupon_cv.pdf#scrollbar=0" height="600" width="100%"></iframe>
