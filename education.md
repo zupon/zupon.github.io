@@ -4,11 +4,19 @@
 
 ## The University of Arizona
 
-02021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)  
-Committee:&nbsp;&nbsp;Andrew Carnie (chair), Michael Hammond, Mihai Surdeanu
+<details>
+<summary>02012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
 
-02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Human Language Technology  
-Committee:&nbsp;&nbsp;Michael Hammond (chair), Sandiway Fong, Andrew Carnie
+Committee:&nbsp;&nbsp;Andrew Carnie (chair), Michael Hammond, Mihai Surdeanu
+</details>
+
+<details>
+<summary>02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Human Language Technology</summary>
+
+Committee:&nbsp;&nbsp;Michael Hammond (chair), Sandiway Fong, Andrew Carnie  
+
+Internship Report:&nbsp;&nbsp;Bootstrapping Enterprise Chatbots with Rasa
+</details>
 
 ## The University of Utah
 
