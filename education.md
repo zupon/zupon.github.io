@@ -1,4 +1,4 @@
-[Home](index.md) | [About Me](aboutme.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](index.md) | [About Me](aboutme.md) | [CV](https://zupon.github.io/files/zupon_cv.pdf) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
 # Education
 
