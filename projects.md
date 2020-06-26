@@ -2,6 +2,10 @@
 
 # Projects
 
+## Capsule Networks project
+
+Details forthcoming!
+
 ## A Corpus Analysis of Breton Soft-Mutation Irregularities
 
 #### Collaborative work with Adam King, Colleen Patton, Michael Hammond, and Andrew Carnie
