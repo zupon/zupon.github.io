@@ -2,6 +2,12 @@
 
 # Employment
 
+## Google, Inc.
+
+Summer 02020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguist Intern
+
+I contributed to an open-source project on text normalization for low-resource languages of Africa.
+
 ## Nextiva
 
 Summer 02018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chatbot Intern
