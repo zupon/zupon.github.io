@@ -1,6 +1,6 @@
 [Home](index.md) | [About Me](aboutme.md) | [CV](cv.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-# Education
+# Degree Programs
 
 ## The University of Arizona
 
@@ -46,6 +46,9 @@ Committee:
 Honors Thesis:&nbsp;&nbsp;[Restrictions on Denominal Verb Formation](http://zupon.github.io/files/zupon_ba_thesis.pdf)  
 Thesis Advisor:&nbsp;&nbsp;Edward J. Rubin
 </details>
+
+---
+# Other Education
 
 ## Université de Bretagne Occidentale (University of Western Brittany)
 
