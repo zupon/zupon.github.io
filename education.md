@@ -5,13 +5,13 @@
 ## The University of Arizona
 
 <details>
-<summary>02012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
+<summary>02021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
 
 
 Dissertation Committee:  
-- Andrew Carnie (chair)  
+- Andrew Carnie (co-chair)  
+- Mihai Surdeanu (co-chair)  
 - Michael Hammond  
-- Mihai Surdeanu  
 </details>
 
 <details>
@@ -46,6 +46,10 @@ Committee:
 Honors Thesis:&nbsp;&nbsp;[Restrictions on Denominal Verb Formation](http://zupon.github.io/files/zupon_ba_thesis.pdf)  
 Thesis Advisor:&nbsp;&nbsp;Edward J. Rubin
 </details>
+
+## Université de Bretagne Occidentale (University of Western Brittany)
+
+02019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Breton Linguistic and Cultural Heritage Studies Summer School
 
 ## Красноярский государственный педагогический университет, им. В.П. Астафьева (Krasnoyarsk State Pedagogical University)
 
