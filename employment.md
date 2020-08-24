@@ -2,21 +2,21 @@
 
 # Employment
 
-## Google, Inc.
+## Linguist Intern, Google, Inc.
 
-Summer 02020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguist Intern
+*June 02020 &ndash; August 02020*
 
-I contributed to an open-source project on text normalization for low-resource languages of Africa.
+I built an open-source text normalization pipeline using Pynini, a Python library for compiling finite-state grammars, to evaluate different approaches to normalization as well as the quality of existing data sets for a selection of low-resource languages of Africa. View [the GitHub repo](https://github.com/googleinterns/text-norm-for-low-resource-languages).
 
-## Nextiva
+## Chatbot Intern, Nextiva
 
-Summer 02018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chatbot Intern
+*May 02018 &ndash; August 02018*
 
 I used the Rasa toolkit to help develop a company-internal chatbot. Tasks included creating training data for the chatbot's language model and dialog model, running and comparing different models, and experimenting with new components for the chatbot.
 
-## Adecco at Google
+## Junior Linguist, Adecco at Google
 
-02015-02016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Linguist
+*September 02015 &ndash; July 02016*
 
 I performed linguistic annotation, corrections, and data analysis for various NLP projects, including syntactic parsing, part-of-speech tagging, named entity recognition (NER), coreference resolution, word sense disambiguation, and text summarization.
 
