@@ -1,11 +1,13 @@
 [Home](index.md) | [About Me](aboutme.md) | [CV](cv.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-# Degree Programs
+# Education
+
+***
 
 ## The University of Arizona
 
 <details>
-<summary>02021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
+<summary>02022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
 
 
 Dissertation Committee:  
@@ -47,8 +49,9 @@ Honors Thesis:&nbsp;&nbsp;[Restrictions on Denominal Verb Formation](http://zupo
 Thesis Advisor:&nbsp;&nbsp;Edward J. Rubin
 </details>
 
----
-# Other Education
+***
+
+# Non-Degree Programs
 
 ## Université de Bretagne Occidentale (University of Western Brittany)
 
