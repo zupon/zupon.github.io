@@ -2,7 +2,15 @@
 
 # Employment
 
-## Linguist Intern, Google, Inc.
+---
+
+## NLP Engineer Consultant, Lum AI
+
+*February 02020 &ndash; present*
+
+My contributions include writing grammars for extracting new types of causal arguments, developing an evaluation framework for entity grounding, and creating unit tests for new features, all for the DARPA Causal Exploration project.
+
+## Linguist Intern, Google
 
 *June 02020 &ndash; August 02020*
 
