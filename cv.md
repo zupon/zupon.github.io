@@ -1,6 +1,6 @@
 [Home](index.md) | [About Me](aboutme.md) | [CV](cv.md) | [Education](education.md) | [Employment](employment.md) | [Projects](projects.md) | [Contact](contact.md)
 
-# CV
+# Curriculum Vitae
 
 ***
 
