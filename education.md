@@ -7,7 +7,7 @@
 ## The University of Arizona
 
 <details>
-<summary>02022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
+<summary>02023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Linguistics (anticipated)</summary>
 
 
 Dissertation Committee:  
