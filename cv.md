@@ -4,4 +4,4 @@
 
 ***
 
-<iframe src="https://zupon.github.io/files/zupon_cv.pdf#navpanes=0" height="600" width="100%"></iframe>
+<iframe height="600" width="100%" src="https://zupon.github.io/files/zupon_cv.pdf#navpanes=0"></iframe>
