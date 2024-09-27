@@ -6,7 +6,7 @@
 
 ## Academic
 
-I am a PhD student in Linguistics at the University of Arizona, where I also received an MS in Human Language Technology (02019). Before coming to Arizona, I worked as a Junior Linguist at Google in Mountain View, CA. Prior to that, I received an MA in Linguistics (02015) and a BA in Linguistics and Spanish (with a minor in Russian, 02013) from the University of Utah.
+I have a PhD in Linguistics from the University of Arizona (02024), where I also received an MS in Human Language Technology (02019). Before coming to Arizona, I worked as a Junior Linguist at Google in Mountain View, CA. Prior to that, I received an MA in Linguistics (02015) and a BA in Linguistics and Spanish (with a minor in Russian, 02013) from the University of Utah.
 
 My two main research interests are computational linguistics and theoretical syntax.  
 
